@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Karthik
 #### I am Full Stack web developer
-![I am Full Stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I like to create website's as well as web application using JavaScript and it's frameworks like React and Node JS.
 I like to learn new languages as well as create some beautiful websites.
 
