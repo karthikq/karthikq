@@ -5,7 +5,7 @@ I like to learn new languages as well as create some beautiful websites.
 
 Skills:   REACT / NODE / JS / HTML / CSS
 
-- 🔭 I’m currently working on Blog posts with redux for state management 
+- 🔭 I’m currently working React native
 - 🌱 I’m currently learning Redux 
 - 📫 How to reach me: kk968347@gmail.com 
 
