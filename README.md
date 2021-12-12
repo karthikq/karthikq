@@ -12,8 +12,9 @@ Skills:   REACT / NODE / JS / HTML / CSS
 
  
 
-  
+<!--   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikq&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/karthikq)  
+ -->
