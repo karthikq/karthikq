@@ -9,7 +9,7 @@ Skills:   REACT / REDUX / SOCKET.IO / POSTGRESQL / MONGO DB / NODE / JS / HTML /
 - 🌱 I’m currently learning Redux 
 - 📫 How to reach me: kk968347@gmail.com 
 
-website : https://karthikjs.netlify.app
+Website : https://karthikjs.netlify.app
  
 
 <!--   
