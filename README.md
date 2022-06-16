@@ -6,7 +6,7 @@ I like to learn new languages as well as create some beautiful websites.
 Skills:   REACT / REDUX / SOCKET.IO / POSTGRESQL / MONGO DB / NODE / JS / HTML / CSS 
 
  
-- 🌱 I’m currently learning Redux 
+
 - 📫 How to reach me: kk968347@gmail.com 
 
 Website : https://karthikjs.netlify.app
