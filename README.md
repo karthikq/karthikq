@@ -11,7 +11,7 @@ Skills:   REACT / REDUX / SOCKET.IO / POSTGRESQL / MONGO DB / NODE / JS / HTML /
 
 Website : https://karthikjs.netlify.app
  
- <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+ 
 <!--   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikq&show_icons=true)  
