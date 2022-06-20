@@ -18,6 +18,4 @@ Website : https://karthikjs.netlify.app
 
 ![Profile views](https://gpvc.arturio.dev/karthikq)  
  -->
-# 📊GitHub Stats :
  
-[![](https://visitcount.itsvg.in/api?id=karthikq&icon=1&color=1)](https://visitcount.itsvg.in)
