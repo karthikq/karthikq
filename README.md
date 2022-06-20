@@ -11,7 +11,7 @@ Skills:   REACT / REDUX / SOCKET.IO / POSTGRESQL / MONGO DB / NODE / JS / HTML /
 
 Website : https://karthikjs.netlify.app
  
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+ 
 <!--   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikq&show_icons=true)  
