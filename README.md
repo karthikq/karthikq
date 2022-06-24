@@ -3,7 +3,7 @@
 I like to create website's as well as web application using JavaScript and it's frameworks like React and Node JS.
 I like to learn new languages as well as create some beautiful websites.
 
-Skills:   REACT / REDUX / SOCKET.IO / POSTGRESQL / MONGO DB / NODE / JS / HTML / CSS 
+Skills:   REACT / REDUX / DOCKER / AWS / SOCKET.IO / POSTGRESQL / MONGO DB / NODE / JS / HTML / CSS 
 
  
 
