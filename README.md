@@ -8,7 +8,7 @@ Skills:   REACT / REDUX / DOCKER / AWS / SOCKET.IO / POSTGRESQL / MONGO DB / NOD
  
 
 - 📫 How to reach me: kk968347@gmail.com 
-- Main account Email:kk968346@gmail.com
+ 
 
 Website : https://karthikjs.netlify.app
  
